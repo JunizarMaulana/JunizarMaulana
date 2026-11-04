@@ -16,6 +16,8 @@
 
 </div>
 
+<img src="./robot-walk.svg" alt="Robot kecil berjalan" width="100%" />
+
 ---
 
 ## 🧑‍💻 Tentang Saya
