@@ -1,6 +1,6 @@
 <!-- Simpan sebagai README.md di repo bernama sama dengan username kamu: github.com/junizarmaulana/junizarmaulana -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halo,%20Saya%20Junizar%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20•%20Mobile%20•%20Web%20•%20Creator&descAlignY=58&descSize=18" width="100%" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halo,%20Saya%20Junizar%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20•%20Mobile%20•%20Web%20•%20Creator&descAlignY=58&descSize=18" width="100%" />](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&text=I+Nizar&textBg=false&fontSize=30&fontAlign=50&fontAlignY=47&animation=twinkling&rotate=2&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 <div align="center">
 
