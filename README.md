@@ -1,22 +1,97 @@
-# 💫 About Me:
-I am a student at Universitas Muhammadiyah Mataram, majoring in Information Systems and Technology.
+<!-- Simpan sebagai README.md di repo bernama sama dengan username kamu: github.com/junizarmaulana/junizarmaulana -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halo,%20Saya%20Junizar%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20•%20Mobile%20•%20Web%20•%20Creator&descAlignY=58&descSize=18" width="100%" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071294844114) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nizarr006/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@zunizarmaulana06?_r=1&_t=ZS-98ms9ThKTj6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=junizarml20@gmail.com&tf=cm)
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JunizarMaulana&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JunizarMaulana&theme=prussian&hide_border=true)<br/>
+<a href="https://github.com/junizarmaulana">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=640&lines=Membangun+aplikasi+Flutter+%26+Firebase+📱;Mendesain+website+yang+hidup+🎨;Belajar+setiap+hari%2C+ngoding+tiap+hari+🚀;Ayo+kolaborasi!+🤝" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JunizarMaulana&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Profile Views](https://komarev.com/ghpvc/?username=junizarmaulana&color=ff6b00&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/junizarmaulana?style=for-the-badge&color=ff6b00&labelColor=111111&logo=github)
+![Stars](https://img.shields.io/github/stars/junizarmaulana?style=for-the-badge&color=ff6b00&labelColor=111111&logo=github)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=JunizarMaulana&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧑‍💻 Tentang Saya
+
+```js
+const saya = {
+  nama: "Junizar Maulana",
+  fokus: ["Mobile Development", "Web Design", "Game & Kreatif"],
+  sedangBelajar: ["Flutter", "Firebase", "Agent AI"],
+  motto: "Kode rapi, tampilan hidup ✨",
+  funFact: "Kopi dulu, baru commit ☕"
+};
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## 📊 Statistik GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=junizarmaulana&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FF6B00&text_color=9e9e9e&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junizarmaulana&layout=compact&theme=transparent&title_color=FF6B00&text_color=9e9e9e&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=junizarmaulana&theme=transparent&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=9e9e9e&currStreakNum=9e9e9e&sideNums=9e9e9e&dates=6e6e6e&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=junizarmaulana&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&area_color=ff6b00&hide_border=true" width="100%" />
+
+</div>
+
+## 🐍 Snake Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/junizarmaulana/junizarmaulana/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+## 🚀 Proyek Pilihan
+
+<div align="center">
+
+<a href="https://github.com/junizarmaulana/Kos-Canggi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junizarmaulana&repo=Kos-Canggi&theme=transparent&title_color=FF6B00&icon_color=FF6B00&text_color=9e9e9e&hide_border=true" />
+</a>
+
+</div>
+
+## 🏆 Trofi
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=junizarmaulana&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+## 📫 Mari Terhubung
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junizarmaulana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
