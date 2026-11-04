@@ -1,4 +1,5 @@
 <!-- Simpan sebagai README.md di repo bernama sama dengan username kamu: github.com/junizarmaulana/junizarmaulana -->
+<!-- Pastikan file robot-walk.svg sudah di-upload ke repository ini -->
 
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6B00&height=220&section=header&text=[SYSTEM_ONLINE]%20Halo,%20Saya%20Junizar%20🤖&fontSize=40&fontColor=FF6B00&animation=fadeIn&fontAlignY=36&desc=Cyber_Developer%20•%20Mobile%20•%20Web%20•%20AI_Enthusiast&descAlignY=58&descSize=18" width="100%" />](https://github.com/junizarmaulana)
 
@@ -17,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Robot Animation" width="120" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="System Scanning" width="120" />
 </div>
 
 ---
