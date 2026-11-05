@@ -1,6 +1,6 @@
- <!-- JUNIZAR MAULANA | GitHub Profile README -->
+ <!-- Nizar | GitHub Profile README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=JUNIZAR%20MAULANA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=BLOCK%20NIZAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
 
 <div align="center">
 
@@ -52,17 +52,16 @@
 </div>
 </br>
 
-## 🤖 End Conversation
 
 <div align="center">
 
 <img src="./robot-walk.svg" width="300" alt="Junizar Maulana Walking Robot" />
 
-### JUNIZAR AI
+### NIzar
 
 **Thanks for visiting my digital workspace.**
 
-*Keep coding. Keep creating. Keep moving.*
+*Hidup Yang Tidak Dipertaruhkan Tidak Layak Untuk Di Perjuangakan.*
 
 <a href="https://github.com/junizarmaulana">
   <img src="https://img.shields.io/badge/RETURN_TO_GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF6B00" />
