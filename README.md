@@ -7,10 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=600&lines=Hello%2C+Teman!;Welcome+to+my+digital+workspace.;Building+apps%2C+websites%2C+and+ideas.;Always+learning.+Always+building." alt="Typing SVG" />
 
 <br/>
-
-<!-- Animasi baru: tidak mengganti elemen atau animasi bawaan -->
-<img src="./nizar-ai-lab.svg" width="100%" alt="Nizar AI Lab Animation" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=junizarmaulana&color=FF6B00&style=flat-square&label=PROFILE+VIEWS" />
