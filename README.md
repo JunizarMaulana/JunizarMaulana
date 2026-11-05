@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=I`AM%20NIZAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
 
-<div align="center">
 <img src="./robot-fly.svg" width="300" alt="Ayam Terbang" />
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=600&lines=Hello%2C+Teman!;Welcome+to+my+digital+workspace.;Building+apps%2C+websites%2C+and+ideas.;Always+learning.+Always+building." alt="Typing SVG" />
 
 <br/>
