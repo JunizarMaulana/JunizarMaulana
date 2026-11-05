@@ -47,7 +47,7 @@
 
 <a href="https://github.com/junizarmaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
 <a href="https://instagram.com/junizarmaulana"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
-<a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+<a href="mailto:Blockvalt@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
 </div>
 </br>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="./robot-walk.svg" width="180" alt="Junizar AI Walking Robot" />
+<img src="./robot-walk.svg" width="300" alt="Junizar Maulana Walking Robot" />
 
 ### JUNIZAR AI
 
