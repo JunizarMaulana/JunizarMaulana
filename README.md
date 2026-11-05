@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=600&lines=Hello%2C+Human!;Welcome+to+my+digital+workspace.;Building+apps%2C+websites%2C+and+ideas.;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=FF6B00&center=true&vCenter=true&width=600&lines=Hello%2C+Teman!;Welcome+to+my+digital+workspace.;Building+apps%2C+websites%2C+and+ideas.;Always+learning.+Always+building." alt="Typing SVG" />
 
 <br/>
 
@@ -35,11 +35,12 @@
   "motto": "Code the Future. Build the Impossible."
 }
 ```
-
+<a
 ## ⚡ CORE MODULES
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=firebase" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=js" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=php" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=git" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=github" width="55" />
 </div>
+/a>
 
 <div align="center">
 
