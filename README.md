@@ -1,6 +1,6 @@
  <!-- JUNIZAR AI | GitHub Profile README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6B00&height=220&section=header&text=JUNIZAR%20AI&fontSize=48&fontColor=FF6B00&animation=fadeIn&fontAlignY=38&desc=Cyber%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF6B00&height=220&section=header&text=JUNIZAR%20AI&fontSize=48&fontColor=FF6B00&animation=fadeIn&fontAlignY=38&desc=Cyber%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
 
 <div align="center">
 
@@ -38,32 +38,47 @@
 
 ## ⚡ CORE MODULES
 
-<p align="center">
-  <a href="https://flutter.dev">
-    <img src="./assets/flutter.gif" width="65">
-  </a>
-  <a href="https://firebase.google.com">
-    <img src="./assets/firebase.gif" width="65">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="./assets/html.gif" width="65">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="./assets/javascript.gif" width="65">
-  </a>
-  <a href="https://www.php.net">
-    <img src="./assets/php.gif" width="65">
-  </a>
-  <a href="https://isocpp.org">
-    <img src="./assets/cpp.gif" width="65">
-  </a>
-  <a href="https://git-scm.com">
-    <img src="./assets/git.gif" width="65">
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="./assets/vscode.gif" width="65">
-  </a>
-</p>
+## 🖥️ Core Modules
+
+<div align="center">
+
+<a href="https://flutter.dev" title="Flutter">
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" />
+</a>
+&nbsp;
+<a href="https://firebase.google.com" title="Firebase">
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="55" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="55" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="55" />
+</a>
+&nbsp;
+<a href="https://www.php.net" title="PHP">
+  <img src="https://skillicons.dev/icons?i=php" width="55" />
+</a>
+&nbsp;
+<a href="https://git-scm.com" title="Git">
+  <img src="https://skillicons.dev/icons?i=git" width="55" />
+</a>
+&nbsp;
+<a href="https://github.com" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+
+<br/>
+
+<sub>⌘ CLICK AN ICON TO EXPLORE THE TECHNOLOGY</sub>
+
+</div>
 
 <div align="center">
 
