@@ -66,38 +66,12 @@
 
 </div>
 
-## 💬 JUNIZAR AI
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────┐
-│  JUNIZAR AI                         ● ON │
-├──────────────────────────────────────────┤
-│                                          │
-│  AI     : Hello, Human!                  │
-│  USER   : What are you building?         │
-│  AI     : Apps, websites, and ideas.     │
-│  USER   : What's your mission?           │
-│  AI     : Keep learning and creating.    │
-│                                          │
-├──────────────────────────────────────────┤
-│  SYSTEM READY_                           │
-└──────────────────────────────────────────┘
-```
 
 <sub>A personal developer interface — static profile display.</sub>
 
 </div>
 
-## 🚀 Active Projects
-
-| Project | Description |
-|:---|:---|
-| [PERBAIKI YOK](https://junizarmaulana.github.io/perbaiki-yok/) | Website layanan perbaikan perangkat |
-| TROUFIX STI | Project layanan teknologi mahasiswa STI |
-| Flutter Apps | Mobile application development |
-| AI Experiments | Eksplorasi teknologi AI |
 
 ## 📊 GitHub Statistics
 
@@ -133,21 +107,6 @@
 
 ---
 
-## ⚙️ System Status
-
-```bash
-[OK] Developer profile loaded
-[OK] Flutter module initialized
-[OK] Web module initialized
-[OK] Firebase module initialized
-[OK] Learning engine activated
-
-SYSTEM  : ONLINE
-DEVELOPER: JUNIZAR MAULANA
-MISSION  : BUILD THE FUTURE
-
-> Ready for the next challenge_
-```
 
 ## 🤖 End Conversation
 
