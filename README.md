@@ -1,6 +1,6 @@
- <!-- JUNIZAR AI | GitHub Profile README -->
+ <!-- JUNIZAR MAULANA | GitHub Profile README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=JUNIZAR%20AI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=JUNIZAR%20MAULANA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
 
 <div align="center">
 
@@ -37,11 +37,12 @@
 ```
 
 ## ⚡ CORE MODULES
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=firebase" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=js" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=php" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=git" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=github" width="55" />
 </div>
 
-
+<br>
 <div align="center">
 
 <a href="https://github.com/junizarmaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
@@ -49,7 +50,7 @@
 <a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
 </div>
-
+</br>
 
 ## 🤖 End Conversation
 
