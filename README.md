@@ -49,7 +49,7 @@
 
 <a href="https://github.com/JunizarMaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3B00" /></a>
 <a href="https://instagram.com/junizar_ml"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF3B00" /></a>
-<a href="mailto:Blockvalt@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3B00" /></a>
+<a href="https://gmail.com/Blockvalt@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3B00" /></a>
 
 </div>
 </br>
