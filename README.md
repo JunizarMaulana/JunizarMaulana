@@ -35,12 +35,12 @@
   "motto": "Code the Future. Build the Impossible."
 }
 ```
-<a
+
 ## ⚡ CORE MODULES
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=firebase" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=html" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=css" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=js" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=php" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=git" width="55" /> &nbsp; <img src="https://skillicons.dev/icons?i=github" width="55" />
 </div>
-/a>
+
 
 <div align="center">
 
