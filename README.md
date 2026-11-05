@@ -26,7 +26,7 @@
 
 ## 🤖 System Configuration
 
-> 🔴 🟡 🟢 **`contact.json`**                                                                         - Visual Studio Code
+> 🔴 🟡 🟢 **`contact.json`** - Visual Studio Code
 
 ```json
 {
@@ -35,7 +35,7 @@
   "core_modules": [
     "Mobile Development",
     "Web Design",
-    "Design"
+    "Game Architecture"
   ],
   "learning_cache": [
     "Flutter",
@@ -43,7 +43,7 @@
     "Agent AI"
   ],
   "contact": {
-    "email": "junizarml20@gmail.com",
+    "email": "GANTI_EMAIL_KAMU",
     "instagram": "https://instagram.com/junizarmaulana",
     "github": "https://github.com/junizarmaulana"
   },
@@ -57,54 +57,57 @@
 
 > **JUNIZAR AI v1.0 — Personal Developer Assistant**
 
-
+```text
+┌──────────────────────────────────────────────┐
+│  🤖 JUNIZAR AI                               │
+│  ──────────────────────────────────────────  │
+│  STATUS: ONLINE                              │
+│  MODE  : DEVELOPER ASSISTANT                 │
+│  VERSION: 1.0.0                              │
+├──────────────────────────────────────────────┤
+│                                              │
+│  AI: Hello, Human! 👋                        │
+│                                              │
+│  AI: Welcome to Junizar's GitHub profile.    │
+│                                              │
+│  USER: What can you do?                      │
+│                                              │
+│  AI: I explore technology, build apps,       │
+│      develop websites, and learn AI.         │
+│                                              │
+│  USER: What are you learning?                │
+│                                              │
+│  AI: Flutter, Firebase, Web Development,     │
+│      and Artificial Intelligence.            │
+│                                              │
+├──────────────────────────────────────────────┤
+│  > SYSTEM READY_                             │
+└──────────────────────────────────────────────┘
 ```
 
 *Interface ini merupakan simulasi chatbot statis untuk tampilan profil GitHub, bukan chatbot interaktif.*
 
 ---
 
-## 🖥️ Core Modules
+## 🧠 Core Modules
 
 <div align="center">
 
-<a href="https://flutter.dev" title="Flutter">
-  <img src="https://skillicons.dev/icons?i=flutter" width="55" />
-</a>
-&nbsp;
-<a href="https://firebase.google.com" title="Firebase">
-  <img src="https://skillicons.dev/icons?i=firebase" width="55" />
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-  <img src="https://skillicons.dev/icons?i=html" width="55" />
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-  <img src="https://skillicons.dev/icons?i=css" width="55" />
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" width="55" />
-</a>
-&nbsp;
-<a href="https://www.php.net" title="PHP">
-  <img src="https://skillicons.dev/icons?i=php" width="55" />
-</a>
-&nbsp;
-<a href="https://git-scm.com" title="Git">
-  <img src="https://skillicons.dev/icons?i=git" width="55" />
-</a>
-&nbsp;
-<a href="https://github.com" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-
-<br/>
-
-<sub>⌘ CLICK AN ICON TO EXPLORE THE TECHNOLOGY</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter,firebase,sqlite,git,github,vscode&theme=dark" />
 
 </div>
+
+---
+
+## 🚀 Active Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **PERBAIKI YOK** | Website layanan perbaikan perangkat | Development |
+| **TROUFIX STI** | Project layanan teknologi mahasiswa STI | Development |
+| **Flutter Apps** | Mobile application development | Learning |
+| **AI Experiments** | Eksperimen teknologi AI | Exploring |
+
 ---
 
 ## 📡 Communication Protocol
@@ -117,13 +120,30 @@
 <a href="https://instagram.com/junizarmaulana">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" />
 </a>
-<a href="mailto: junizarml20@gmai.com">
+<a href="mailto:GANTI_EMAIL_KAMU">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" />
 </a>
 
 </div>
 
 ---
+
+## ⚙️ AI System Status
+
+```bash
+[BOOTING] JUNIZAR AI SYSTEM...
+[OK] Developer profile loaded
+[OK] Flutter module initialized
+[OK] Web development module initialized
+[OK] Firebase module initialized
+[OK] Learning engine activated
+
+SYSTEM STATUS : ONLINE
+DEVELOPER     : JUNIZAR MAULANA
+CURRENT MODE  : BUILDING THE FUTURE
+
+> Ready for the next challenge_ 
+```
 
 ---
 
@@ -137,7 +157,7 @@
 
 **AI Assistant is always learning.**
 
-───────────────────────────────────────────┘
+──────────────────────────────────────────┘
 ```
 
 **Code the Future. Build the Impossible.**
