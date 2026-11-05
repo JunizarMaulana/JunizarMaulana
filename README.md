@@ -89,14 +89,47 @@
 
 ---
 
-## 🧠 Core Modules
+## 🖥️ Core Modules
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,flutter,firebase,sqlite,git,github,vscode&theme=dark" />
+<a href="https://flutter.dev" title="Flutter">
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" />
+</a>
+&nbsp;
+<a href="https://firebase.google.com" title="Firebase">
+  <img src="https://skillicons.dev/icons?i=firebase" width="55" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="55" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="55" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="55" />
+</a>
+&nbsp;
+<a href="https://www.php.net" title="PHP">
+  <img src="https://skillicons.dev/icons?i=php" width="55" />
+</a>
+&nbsp;
+<a href="https://git-scm.com" title="Git">
+  <img src="https://skillicons.dev/icons?i=git" width="55" />
+</a>
+&nbsp;
+<a href="https://github.com" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+
+<br/>
+
+<sub>⌘ CLICK AN ICON TO EXPLORE THE TECHNOLOGY</sub>
 
 </div>
-
 ---
 
 ## 🚀 Active Projects
