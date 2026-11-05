@@ -62,41 +62,6 @@
 
 <br/>
 
-<sub>⌘ SELECT AN ICON TO EXPLORE</sub>
-
-</div>
-
-
-
-<sub>A personal developer interface — static profile display.</sub>
-
-</div>
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=junizarmaulana&show_icons=true&hide_border=true&bg_color=000000&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junizarmaulana&layout=compact&hide_border=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF" />
-
-</div>
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/junizarmaulana/junizarmaulana/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-
-<a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
-  Learn how we count contributions
-</a>
-
-</div>
-
-## 📡 Communication
-
 <div align="center">
 
 <a href="https://github.com/junizarmaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
@@ -104,8 +69,6 @@
 <a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
 </div>
-
----
 
 
 ## 🤖 End Conversation
