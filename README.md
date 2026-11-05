@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=js" width="55" />
 </a>
 &nbsp;
-<a href="https://www.php.net" title="PHP">
+<a href="https://www.php.n" title="PHP">
   <img src="https://skillicons.dev/icons?i=php" width="55" />
 </a>
 &nbsp;
@@ -71,6 +71,8 @@
 <a href="https://github.com" title="GitHub">
   <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
+
+
 
 </div>
 
