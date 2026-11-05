@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=I`AM%20NIZAR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
 
 <div align="center">
-<img src="./robot-fly.svg" width="300" alt="Ayam Terbang" />
+<img src="./robot-fly.svg" width="500" alt="Ayam Terbang" />
 </div>
 
 <div align="center">
