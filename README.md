@@ -1,6 +1,6 @@
  <!-- JUNIZAR AI | GitHub Profile README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FF6B00&height=220&section=header&text=JUNIZAR%20AI&fontSize=48&fontColor=FF6B00&animation=fadeIn&fontAlignY=38&desc=Cyber%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000000,100:FF6B00&height=220&section=header&text=JUNIZAR%20AI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Design%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=16" width="100%" />
 
 <div align="center">
 
