@@ -26,7 +26,7 @@
 
 ## 🤖 System Configuration
 
-> 🔴 🟡 🟢 **`contact.json`** - Visual Studio Code
+> 🔴 🟡 🟢 **`contact.json`**                                                                         - Visual Studio Code
 
 ```json
 {
@@ -35,7 +35,7 @@
   "core_modules": [
     "Mobile Development",
     "Web Design",
-    "Game Architecture"
+    "Design"
   ],
   "learning_cache": [
     "Flutter",
@@ -43,7 +43,7 @@
     "Agent AI"
   ],
   "contact": {
-    "email": "GANTI_EMAIL_KAMU",
+    "email": "junizarml20@gmail.com",
     "instagram": "https://instagram.com/junizarmaulana",
     "github": "https://github.com/junizarmaulana"
   },
@@ -57,32 +57,7 @@
 
 > **JUNIZAR AI v1.0 — Personal Developer Assistant**
 
-```text
-┌──────────────────────────────────────────────┐
-│  🤖 JUNIZAR AI                               │
-│  ──────────────────────────────────────────  │
-│  STATUS: ONLINE                              │
-│  MODE  : DEVELOPER ASSISTANT                 │
-│  VERSION: 1.0.0                              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  AI: Hello, Human! 👋                        │
-│                                              │
-│  AI: Welcome to Junizar's GitHub profile.    │
-│                                              │
-│  USER: What can you do?                      │
-│                                              │
-│  AI: I explore technology, build apps,       │
-│      develop websites, and learn AI.         │
-│                                              │
-│  USER: What are you learning?                │
-│                                              │
-│  AI: Flutter, Firebase, Web Development,     │
-│      and Artificial Intelligence.            │
-│                                              │
-├──────────────────────────────────────────────┤
-│  > SYSTEM READY_                             │
-└──────────────────────────────────────────────┘
+
 ```
 
 *Interface ini merupakan simulasi chatbot statis untuk tampilan profil GitHub, bukan chatbot interaktif.*
@@ -132,17 +107,6 @@
 </div>
 ---
 
-## 🚀 Active Projects
-
-| Project | Description | Status |
-|---|---|---|
-| **PERBAIKI YOK** | Website layanan perbaikan perangkat | Development |
-| **TROUFIX STI** | Project layanan teknologi mahasiswa STI | Development |
-| **Flutter Apps** | Mobile application development | Learning |
-| **AI Experiments** | Eksperimen teknologi AI | Exploring |
-
----
-
 ## 📡 Communication Protocol
 
 <div align="center">
@@ -153,30 +117,13 @@
 <a href="https://instagram.com/junizarmaulana">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" />
 </a>
-<a href="mailto:GANTI_EMAIL_KAMU">
+<a href="mailto: junizarml20@gmai.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" />
 </a>
 
 </div>
 
 ---
-
-## ⚙️ AI System Status
-
-```bash
-[BOOTING] JUNIZAR AI SYSTEM...
-[OK] Developer profile loaded
-[OK] Flutter module initialized
-[OK] Web development module initialized
-[OK] Firebase module initialized
-[OK] Learning engine activated
-
-SYSTEM STATUS : ONLINE
-DEVELOPER     : JUNIZAR MAULANA
-CURRENT MODE  : BUILDING THE FUTURE
-
-> Ready for the next challenge_ 
-```
 
 ---
 
@@ -190,19 +137,7 @@ CURRENT MODE  : BUILDING THE FUTURE
 
 **AI Assistant is always learning.**
 
-```text
-┌──────────────────────────────────────────────┐
-│  AI: Thank you for visiting my profile!      │
-│                                              │
-│  USER: See you next time!                    │
-│                                              │
-│  AI: Keep coding. Keep creating. 🚀          │
-│                                              │
-│  [CONNECTION CLOSED]                         │
-│  [SESSION SAVED SUCCESSFULLY]                │
-│                                              │
-│  SYSTEM STATUS: ONLINE                       │
-└──────────────────────────────────────────────┘
+───────────────────────────────────────────┘
 ```
 
 **Code the Future. Build the Impossible.**
