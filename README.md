@@ -38,8 +38,6 @@
 
 ## ⚡ CORE MODULES
 
-## 🖥️ Core Modules
-
 <div align="center">
 
 <a href="https://flutter.dev" title="Flutter">
@@ -73,10 +71,6 @@
 <a href="https://github.com" title="GitHub">
   <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
-
-<br/>
-
-<sub>⌘ CLICK AN ICON TO EXPLORE THE TECHNOLOGY</sub>
 
 </div>
 
