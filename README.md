@@ -21,18 +21,20 @@
 ```json
 {
   "name": "Junizar Maulana",
-  "role": "Mecha Developer",
+  "role": "Embodied AI",
+  "Side job: "Mobile phone hardware repair"
   "focus": [
     "Mobile Development",
     "Web Development",
     "Artificial Intelligence"
+    "Mikrokontroler AI"
   ],
   "currently_learning": [
     "Flutter",
     "Firebase",
     "Agent AI"
   ],
-  "motto": "Code the Future. Build the Impossible."
+  "motto": "Make the Impossible."
 }
 ```
 
@@ -45,8 +47,8 @@
 <br>
 <div align="center">
 
-<a href="https://github.com/junizarmaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
-<a href="https://instagram.com/junizarmaulana"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
+<a href="https://github.com/JunizarMaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
+<a href="https://instagram.com/junizar_ml"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
 <a href="mailto:Blockvalt@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
 </div>
