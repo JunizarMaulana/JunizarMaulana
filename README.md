@@ -24,9 +24,8 @@
 <div align="center">
 <img src="./about-card.svg" width="100%" alt="About Junizar Maulana" />
 </div>
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,php,git,github,arduino,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,html,css,js,php,git,github,python,figma&theme=dark" />
 </div>
 
 
