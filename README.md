@@ -43,13 +43,13 @@
 <br/><br/>
 
 <img src="./robot-walk.svg" width="300" alt="Robot Berjalan" />
+
 ### Block Valt Awaiting
 
 **Thanks for visiting my digital workspace.**
 
 *Hidup Yang Tidak Dipertaruhkan Tidak Layak Untuk Diperjuangkan.*
 
-</div> ubah text jadi kayak text tebal dan font yang bagus
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:000000&height=120&section=footer" width="100%" />
