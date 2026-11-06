@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<a href="https://github.com/JunizarMaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
+<a href="https://wa.me/6282126242592"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FF6B00" /></a>
 <a href="https://instagram.com/junizar_ml"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
 <a href="mailto:junizarml20@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
