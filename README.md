@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<a href="https://t.me/Nizar"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF6B00" /></a>
+<a href="https://t.me/Junizarml20"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF6B00" /></a>
 <a href="https://instagram.com/junizar_ml"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
 <a href="mailto:junizarml20@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
