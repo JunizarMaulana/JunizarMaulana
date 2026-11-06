@@ -18,21 +18,25 @@
 
 </div>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B00&height=3&section=header" width="100%" />
-
 
 <div align="center">
 <img src="./about-card.svg" width="100%" alt="About Junizar Maulana" />
 </div>
+
+<br/>
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,html,css,js,php,git,github,python,figma&theme=dark" />
 </div>
 
 <br/>
+
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=junizarmaulana&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </div>
 
+<br/>
 
 <div align="center">
 
