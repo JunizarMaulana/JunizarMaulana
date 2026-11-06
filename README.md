@@ -38,9 +38,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/junizarmaulana/junizarmaulana/output/github-snake-dark.svg" width="100%" alt="snake" />
-
-
 <div align="center">
 
 <a href="https://github.com/JunizarMaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
