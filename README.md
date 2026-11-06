@@ -18,6 +18,7 @@
 
 </div>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B00&height=3&section=header" width="100%" />
 
 
