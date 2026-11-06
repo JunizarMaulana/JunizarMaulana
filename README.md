@@ -18,7 +18,20 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B00&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B00&height=3&section=header" width="100%" />## 👤 About Me
+
+<div align="center">
+
+![Name](https://img.shields.io/badge/NAME-Junizar%20Maulana-FF6B00?style=for-the-badge&labelColor=000000)
+![Role](https://img.shields.io/badge/ROLE-Embodied%20AI-FF6B00?style=for-the-badge&labelColor=000000)
+![Side Job](https://img.shields.io/badge/SIDE%20JOB-Mobile%20Phone%20Hardware%20Repair-FF6B00?style=for-the-badge&labelColor=000000)
+
+![Focus](https://img.shields.io/badge/FOCUS-Mobile%20%7C%20Web%20%7C%20AI%20%7C%20Mikrokontroler%20AI-FF6B00?style=for-the-badge&labelColor=000000)
+![Learning](https://img.shields.io/badge/LEARNING-Flutter%20%7C%20Firebase%20%7C%20Agent%20AI-FF6B00?style=for-the-badge&labelColor=000000)
+
+![Motto](https://img.shields.io/badge/MOTTO-Make%20the%20Impossible-FF6B00?style=for-the-badge&labelColor=000000)
+
+</div>
 ```json
 {
   "name": "Junizar Maulana",
