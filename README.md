@@ -28,10 +28,6 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,html,css,js,php,git,github,python,figma&theme=dark" />
 </div>
 
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=junizarmaulana&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junizarmaulana&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=junizarmaulana&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </div>
