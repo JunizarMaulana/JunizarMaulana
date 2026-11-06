@@ -44,7 +44,7 @@
 
 <img src="./robot-walk.svg" width="300" alt="Robot Berjalan" />
 
-### Block Valt Awaiting
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1500&color=FF6B00&center=true&vCenter=true&width=700&height=60&lines=BLOCK+VALT+AWAITING" alt="Block Valt Awaiting" />
 
 **Thanks for visiting my digital workspace.**
 
