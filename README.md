@@ -43,20 +43,13 @@
 <br/><br/>
 
 <img src="./robot-walk.svg" width="300" alt="Robot Berjalan" />
+### Block Valt Awaiting
 
-<div align="center">
+**Thanks for visiting my digital workspace.**
 
-<img src="./robot-walk.svg" width="300" alt="Robot Berjalan" />
+*Hidup Yang Tidak Dipertaruhkan Tidak Layak Untuk Diperjuangkan.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1500&color=FF6B00&center=true&vCenter=true&width=700&height=60&lines=BLOCK+VALT+AWAITING" alt="Block Valt Awaiting" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+digital+workspace." alt="Thanks for visiting" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=4000&pause=1500&color=FF9A4D&center=true&vCenter=true&width=700&height=40&lines=Hidup+Yang+Tidak+Dipertaruhkan" alt="Hidup yang tidak dipertaruhkan" />
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=4000&pause=1500&color=FF9A4D&center=true&vCenter=true&width=700&height=40&lines=Tidak+Layak+Untuk+Diperjuangkan." alt="Tidak layak untuk diperjuangkan" />
-
-</div>
+</div> ubah text jadi kayak text tebal dan font yang bagus
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:000000&height=120&section=footer" width="100%" />
