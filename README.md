@@ -42,11 +42,11 @@
 
 <a href="https://github.com/JunizarMaulana"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
 <a href="https://instagram.com/junizar_ml"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
-<a href="mailto:Blockvalt@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+<a href="mailto:junizarml20@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
 <br/><br/>
   
-<img src="./robot-walk.svg" width="500" alt="Robot Berjalan" />
+<img src="./robot-walk.svg" width="400" alt="Robot Berjalan" />
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1500&color=FF6B00&center=true&vCenter=true&width=700&height=60&lines=BLOCK+VALT+AWAITING" alt="Block Valt Awaiting" />
