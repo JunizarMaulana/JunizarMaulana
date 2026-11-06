@@ -18,10 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,FF6B00,000000&height=3&section=header" width="100%" />
-
-## 👤 About Me
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B00&height=3&section=header" width="100%" />
 ```json
 {
   "name": "Junizar Maulana",
@@ -38,13 +35,12 @@
 }
 ```
 
-## 🛠️ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,php,git,github,arduino,python&theme=dark" />
 </div>
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=junizarmaulana&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" />
@@ -53,15 +49,10 @@
 <img src="https://streak-stats.demolab.com?user=junizarmaulana&hide_border=true&background=0D0D0D&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </div>
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=junizarmaulana&bg_color=0D0D0D&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/junizarmaulana/junizarmaulana/output/github-snake-dark.svg" width="100%" alt="snake" />
 
-## 📫 Connect
+
 
 <div align="center">
 
